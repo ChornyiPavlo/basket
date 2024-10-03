@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pinapaz.baskfield.pro/sitemap.xml
+Host: pinapaz.baskfield.pro
